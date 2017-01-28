@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 7d9bed4cac1c4544d9cb37a52681b67f
+timeCreated: 1452667754
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BLACK
+    100002: BLUE
+    100004: Cylin
+    100006: Cylin1
+    100008: Cylin2
+    100010: Cylin3
+    100012: Cylin4
+    100014: Cylin5
+    100016: Cylin6
+    100018: Cylinder
+    100020: GREEN
+    100022: //RootNode
+    100024: RED
+    100026: TooBig0
+    100028: TooBig1
+    100030: TooBig2
+    100032: TooBig3
+    100034: TooBig4
+    100036: TooBig5
+    100038: TooBig6
+    100040: TooBig7
+    400000: BLACK
+    400002: BLUE
+    400004: Cylin
+    400006: Cylin1
+    400008: Cylin2
+    400010: Cylin3
+    400012: Cylin4
+    400014: Cylin5
+    400016: Cylin6
+    400018: Cylinder
+    400020: GREEN
+    400022: //RootNode
+    400024: RED
+    400026: TooBig0
+    400028: TooBig1
+    400030: TooBig2
+    400032: TooBig3
+    400034: TooBig4
+    400036: TooBig5
+    400038: TooBig6
+    400040: TooBig7
+    2300000: BLACK
+    2300002: BLUE
+    2300004: Cylin
+    2300006: Cylin1
+    2300008: Cylin2
+    2300010: Cylin3
+    2300012: Cylin4
+    2300014: Cylin5
+    2300016: Cylin6
+    2300018: Cylinder
+    2300020: GREEN
+    2300022: RED
+    2300024: TooBig0
+    2300026: TooBig1
+    2300028: TooBig2
+    2300030: TooBig3
+    2300032: TooBig4
+    2300034: TooBig5
+    2300036: TooBig6
+    2300038: TooBig7
+    3300000: BLACK
+    3300002: BLUE
+    3300004: Cylin
+    3300006: Cylin1
+    3300008: Cylin2
+    3300010: Cylin3
+    3300012: Cylin4
+    3300014: Cylin5
+    3300016: Cylin6
+    3300018: Cylinder
+    3300020: GREEN
+    3300022: RED
+    3300024: TooBig0
+    3300026: TooBig1
+    3300028: TooBig2
+    3300030: TooBig3
+    3300032: TooBig4
+    3300034: TooBig5
+    3300036: TooBig6
+    3300038: TooBig7
+    4300000: BLACK
+    4300002: Cylin6
+    4300004: TooBig0
+    4300006: Cylinder
+    4300008: TooBig1
+    4300010: GREEN
+    4300012: Cylin4
+    4300014: TooBig2
+    4300016: Cylin
+    4300018: TooBig3
+    4300020: BLUE
+    4300022: Cylin2
+    4300024: TooBig4
+    4300026: Cylin5
+    4300028: TooBig5
+    4300030: RED
+    4300032: Cylin1
+    4300034: TooBig6
+    4300036: Cylin3
+    4300038: TooBig7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

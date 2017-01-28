@@ -1,0 +1,51 @@
+
+Catching ----------------------
+
+Spawn objects.
+Fire object at the wall.
+	Break the wall.
+	More roaches can crawl out.
+Freeze the roach objects.
+Set him on fire.
+Camoflauge when he walks on something.
+Explosion Force.
+How to convey to the player that they are progressing or getting hit.
+	Not a health bar.
+		Scare meter.
+			When the roaches touch you.
+				This is how it loses the power.
+Audio cues. - I am interested in this one.
+Progression:
+	Take out a certain number of roaches.
+	UI, how do the players know which roach gets killed.
+UI
+	Standard UI.
+Press a button to see.
+	Take out the 10 roaches.
+	Not there in your face and blocking you all the time.
+
+Add the scoring.
+	Get the loop going.
+
+Updates ----------------------
+
+Life
+Timer
+Points
+	Different type of roach has different points.
+	
+Abilities
+	
+	Regular ()
+	Camoflauger - Hide for a bit
+	Destoryer - Hurls objects to spawn more roaches.
+	Fire - Fireball roach idea.
+	Large
+	Medium 
+	Small
+	Flying
+	Non-flying roaches
+
+Points
+
+	

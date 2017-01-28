@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 5e8b7fcd1c44f437283a744a5b1c9381
+timeCreated: 1455322946
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone_Antennae_001_Lower_L
+    100004: Bone_Antennae_001_Lower_R
+    100006: Bone_Antennae_001_Mid_L
+    100008: Bone_Antennae_001_Mid_R
+    100010: Bone_Antennae_001_Upper_L
+    100012: Bone_Antennae_001_Upper_L_001
+    100014: Bone_Antennae_001_Upper_R
+    100016: Bone_Antennae_001_Upper_R_001
+    100018: Bone_Head
+    100020: Bone_IK_Leg_001_L
+    100022: Bone_IK_Leg_001_R
+    100024: Bone_IK_Leg_002_L
+    100026: Bone_IK_Leg_002_R
+    100028: Bone_IK_Leg_003_L
+    100030: Bone_IK_Leg_003_R
+    100032: Bone_IK_Target_Leg_001_L
+    100034: Bone_IK_Target_Leg_001_R
+    100036: Bone_IK_Target_Leg_002_L
+    100038: Bone_IK_Target_Leg_002_R
+    100040: Bone_IK_Target_Leg_003_L
+    100042: Bone_IK_Target_Leg_003_R
+    100044: Bone_Leg_001_Lower_L
+    100046: Bone_Leg_001_Lower_R
+    100048: Bone_Leg_001_Mid_L
+    100050: Bone_Leg_001_Mid_R
+    100052: Bone_Leg_001_Upper_L
+    100054: Bone_Leg_001_Upper_R
+    100056: Bone_Leg_002_Lower_L
+    100058: Bone_Leg_002_Lower_R
+    100060: Bone_Leg_002_Mid_L
+    100062: Bone_Leg_002_Mid_R
+    100064: Bone_Leg_002_Upper_L
+    100066: Bone_Leg_002_Upper_R
+    100068: Bone_Leg_003_Lower_L
+    100070: Bone_Leg_003_Lower_R
+    100072: Bone_Leg_003_Mid_L
+    100074: Bone_Leg_003_Mid_R
+    100076: Bone_Leg_003_Upper_L
+    100078: Bone_Leg_003_Upper_R
+    100080: Bone_Spine
+    100082: //RootNode
+    100084: Cockroach
+    400000: Armature
+    400002: Bone_Antennae_001_Lower_L
+    400004: Bone_Antennae_001_Lower_R
+    400006: Bone_Antennae_001_Mid_L
+    400008: Bone_Antennae_001_Mid_R
+    400010: Bone_Antennae_001_Upper_L
+    400012: Bone_Antennae_001_Upper_L_001
+    400014: Bone_Antennae_001_Upper_R
+    400016: Bone_Antennae_001_Upper_R_001
+    400018: Bone_Head
+    400020: Bone_IK_Leg_001_L
+    400022: Bone_IK_Leg_001_R
+    400024: Bone_IK_Leg_002_L
+    400026: Bone_IK_Leg_002_R
+    400028: Bone_IK_Leg_003_L
+    400030: Bone_IK_Leg_003_R
+    400032: Bone_IK_Target_Leg_001_L
+    400034: Bone_IK_Target_Leg_001_R
+    400036: Bone_IK_Target_Leg_002_L
+    400038: Bone_IK_Target_Leg_002_R
+    400040: Bone_IK_Target_Leg_003_L
+    400042: Bone_IK_Target_Leg_003_R
+    400044: Bone_Leg_001_Lower_L
+    400046: Bone_Leg_001_Lower_R
+    400048: Bone_Leg_001_Mid_L
+    400050: Bone_Leg_001_Mid_R
+    400052: Bone_Leg_001_Upper_L
+    400054: Bone_Leg_001_Upper_R
+    400056: Bone_Leg_002_Lower_L
+    400058: Bone_Leg_002_Lower_R
+    400060: Bone_Leg_002_Mid_L
+    400062: Bone_Leg_002_Mid_R
+    400064: Bone_Leg_002_Upper_L
+    400066: Bone_Leg_002_Upper_R
+    400068: Bone_Leg_003_Lower_L
+    400070: Bone_Leg_003_Lower_R
+    400072: Bone_Leg_003_Mid_L
+    400074: Bone_Leg_003_Mid_R
+    400076: Bone_Leg_003_Upper_L
+    400078: Bone_Leg_003_Upper_R
+    400080: Bone_Spine
+    400082: //RootNode
+    400084: Cockroach
+    4300000: Cockroach
+    7400000: Default Take
+    7400002: ArmatureAction_001
+    7400004: ArmatureAction_002
+    7400006: armmm_001
+    7400008: arms
+    7400010: CRAWL
+    7400012: himo
+    7400014: legs
+    9500000: //RootNode
+    13700000: Cockroach
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
